@@ -1,0 +1,3 @@
+pyquil
+numpy
+tqdm
